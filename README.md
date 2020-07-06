@@ -1,1 +1,1 @@
-# Web3 Tutorial
+# Web3.js Tutorial
